@@ -22,7 +22,7 @@ class PuzzleState:
 
 GoalState = [0, 1, 2, 3, 4, 5, 6, 7, 8]
 GoalNode = None 
-NodesExpanded = 0 
+NosExpandidos = 0 
 MaxSearchDeep = 0 
 MaxFrontier = 0 
 
